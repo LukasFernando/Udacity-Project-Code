@@ -1,7 +1,7 @@
 # Udacity-Project-Code 
 
-<p> I learn Python one year ago. Since than I figure it out what I want to work. So I'm studing Data Science, Analyst, and stuff like that. I like Python and I want to learn more every day  
-<p> This project was amazing. I love Python and learn how to use this to Data Science was a big step, but not impossible. 
+<p> I learn Python one year ago. Since then I figured it out what I want to do. So I'm studying to learn more every day.
+<p> This project was amazing. I like Python and learn how to use this to Data Science was a big step, but not impossible. 
 
 #### Description of files
 <li> question_1

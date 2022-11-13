@@ -15,3 +15,8 @@
 <li> question_1
   <p> What is the five Education Types more common?  
   <p> To know what is the highest common education types nowadays
+
+
+#### Libraries used 
+<li> Pandas 
+<li> Matplotlib

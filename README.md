@@ -19,4 +19,6 @@
 
 ### Libraries used 
 <li> Pandas 
+<li> Random
+<li> seaborn
 <li> Matplotlib

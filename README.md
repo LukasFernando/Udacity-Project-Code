@@ -3,7 +3,7 @@
 <p> I learn Python one year ago. Since then I figured it out what I want to do. So I'm studying to learn more every day.
 <p> This project was amazing. I like Python and learn how to use this to Data Science was a big step, but not impossible. 
 
-#### Description of files
+### Description of files
 <li> question_1
   <p> How much is the average salary for top five country?
   <p> To know which country has the highest salary. This will help if the client want to build with a new office in other country
@@ -17,6 +17,6 @@
   <p> To know what is the highest common education types nowadays
 
 
-#### Libraries used 
+### Libraries used 
 <li> Pandas 
 <li> Matplotlib

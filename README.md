@@ -22,3 +22,11 @@
 <li> Random
 <li> seaborn
 <li> Matplotlib
+
+
+### Files used 
+<li> survey_results_public.csv -> Stackoverflow's Annual Developer Survey data.
+
+### Acknowledgment 
+<p> This project was the best that I ever done. Thanks for all people that makes this happend. All the libraries and the knolegment was teach in this course, I'm so happy to conclude this course, it's the first one and I hope that isn't the last. 
+

@@ -23,6 +23,8 @@
 <li> seaborn
 <li> Matplotlib
 
+<p> To install any library above use: pip install <library name>
+<p> For instance: pip install pandas
 
 ### Files used 
 <li> survey_results_public.csv -> Stackoverflow's Annual Developer Survey data.
